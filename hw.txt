@@ -1,0 +1,20 @@
+1.
+A web protocol
+2.
+An address for a website that can be shared.
+3.
+A way to turn an address into an IP
+4.
+way to look up key value pairs
+5.
+GET-retrieves something without changing anything
+POST-Changes things based off of what is being posted
+6.
+what you are requesting
+7.what is being sent back based on the request
+8.
+a header is something in the url that can get more specific ie Accept languange =en or Accept =application/json
+9.
+url is converted to ip
+browser makes request to ip
+browser recieves a response to create page
